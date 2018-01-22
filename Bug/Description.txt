@@ -1,0 +1,5 @@
+I encountered a bug in the current OpenPTV sofwtare when doing a multiplane calibration.
+Although the multiplane calibration works and the ori-files are updated with the calibration result, 
+the projected grid in the GUI seems wrong.
+I added three screen shots (camera 1, camera 2, camera 3) of the projected grids after clicking orientation.
+If somebody has any idea how to fix it, please let me know.
