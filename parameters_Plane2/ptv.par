@@ -1,12 +1,10 @@
 3
-img/img.10000 
-calibration/calib2_cam1.tif.ori
 img/img.10000
-calibration/calib2_cam2.tif.ori
+calibration/calib2_cam1.tif
 img/img.10000
-calibration/calib2_cam3.tif.ori
+calibration/calib2_cam2.tif
 img/img.10000
-calibration/calib2_cam1.tif.ori
+calibration/calib2_cam3.tif
 1
 0
 1
